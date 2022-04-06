@@ -1,0 +1,7 @@
+have tt in a 2d array
+2 players X, O
+need to track status of the game
+take turn-input from user
+X goes first
+store user names
+offer coinflip to choose who goes first
